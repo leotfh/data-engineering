@@ -1,0 +1,17 @@
+[
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-03-25T13:49:19.189649",
+        "motion_detected": true
+    },
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-03-25T13:49:20.190294",
+        "motion_detected": false
+    },
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-03-25T13:49:21.190874",
+        "motion_detected": true
+    }
+]

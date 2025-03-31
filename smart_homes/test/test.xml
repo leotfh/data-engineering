@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<AirQualityReadings>
+   <Reading>
+      <sensor_id>3</sensor_id>
+      <timestamp>2021-01-01T00:00:00</timestamp>
+      <pm2_5>10</pm2_5>
+      <pm10>20</pm10>
+      <so2>30</so2>
+      <no2>40</no2>
+   </Reading>
+   <Reading>
+      <sensor_id>3</sensor_id>
+      <timestamp>2021-01-01T00:00:00</timestamp>
+      <pm2_5>10</pm2_5>
+      <pm10>20</pm10>
+      <so2>30</so2>
+      <no2>40</no2>
+   </Reading>
+</AirQualityReadings>

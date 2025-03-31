@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<AirQualityReadings>
+  <Reading>
+    <sensor_id>3</sensor_id>
+    <timestamp>2025-03-31T15:59:44.159907</timestamp>
+    <pm2_5>97.57</pm2_5>
+    <pm10>2.56</pm10>
+    <so2>155.0</so2>
+    <no2>473.21</no2>
+    <health_environment>unhealthy</health_environment>
+  </Reading>
+</AirQualityReadings>

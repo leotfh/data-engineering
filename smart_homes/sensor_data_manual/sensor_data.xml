@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AirQualityReadings>
+    <Reading>
+        <sensor_id company="test.co">1</sensor_id>
+        <timestamp>2025-03-22T16:58:29.562764</timestamp>
+        <pm_2_5>157.28</pm_2_5>
+        <pm_10>346.73</pm_10>
+        <so2>255.61</so2>
+        <no2>394.78</no2>
+        <co2>0.0</co2>
+    </Reading>
+    <Reading>
+        <sensor_id company="test1.co">2</sensor_id>
+        <timestamp>2025-03-22T16:58:30.563201</timestamp>
+        <pm_2_5>58.38</pm_2_5>
+        <pm_10>157.28</pm_10>
+        <so2>105.57</so2>
+        <no2>439.75</no2>
+        <co2>0.0</co2>
+    </Reading>
+    <Reading>
+        <sensor_id company="test.co">1</sensor_id>
+        <timestamp>2025-03-22T16:58:30.563201</timestamp>
+        <pm_2_5>58.38</pm_2_5>
+        <pm_10>157.28</pm_10>
+        <so2>105.57</so2>
+        <no2>439.75</no2>
+        <co2>0.0</co2>
+    </Reading>
+    <Reading>
+        <sensor_id company="test.co">1</sensor_id>
+        <timestamp>2025-03-22T16:58:30.563201</timestamp>
+        <pm_2_5>58.38</pm_2_5>
+        <pm_10>157.28</pm_10>
+        <so2>105.57</so2>
+        <no2>439.75</no2>
+        <co2>0.0</co2>
+    </Reading>
+</AirQualityReadings>
