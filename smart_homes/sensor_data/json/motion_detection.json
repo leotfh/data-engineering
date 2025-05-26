@@ -1,17 +1,27 @@
 [
     {
         "sensor_id": 2,
-        "timestamp": "2025-03-25T13:49:19.189649",
-        "motion_detected": true
-    },
-    {
-        "sensor_id": 2,
-        "timestamp": "2025-03-25T13:49:20.190294",
+        "timestamp": "2025-04-26T12:07:28.323849",
         "motion_detected": false
     },
     {
         "sensor_id": 2,
-        "timestamp": "2025-03-25T13:49:21.190874",
+        "timestamp": "2025-04-26T12:07:29.324459",
+        "motion_detected": false
+    },
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-04-26T12:07:30.325117",
         "motion_detected": true
+    },
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-04-26T12:07:31.325722",
+        "motion_detected": true
+    },
+    {
+        "sensor_id": 2,
+        "timestamp": "2025-04-26T12:07:32.326380",
+        "motion_detected": false
     }
 ]
