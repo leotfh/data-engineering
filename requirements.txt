@@ -16,8 +16,13 @@ jupyterlab_server>=2.25.2
 lxml>=5.2.1
 mysql>=0.0.3
 mysql-connector-python>=8.3.0
-#mysqlclient>=2.2.7
+mysqlclient>=2.2.6
 notebook>=7.0.7
 notebook_shim>=0.2.3
 numpy>=2.0.0
 pandas>=2.2.3
+matplotlib
+scikit-learn
+sqlalchemy
+pymysql
+cryptography
