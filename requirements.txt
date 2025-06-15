@@ -26,7 +26,4 @@ scikit-learn
 sqlalchemy
 pymysql
 cryptography
-streamlit
-langchain_ollama
-langchain_core
-langchain_community
+ollama
