@@ -78,7 +78,7 @@ class MySQLChatbot:
         Do not include any SQL code in your response.
         DO NOT INCLUDE EXPLANATIONS OR INTERNAL REASONING.
         DO NOT USE MARKDOWN OR WRAP WITH BACKTICKS.
-        DO NOT DECODE THE TIMESTAMP.
+        DO NOT DECODE THE TIMESTAMP, return it as is.
         DO NOT INCLUDE <think> 
 
         Correct Examples:
