@@ -76,10 +76,13 @@ class MySQLChatbot:
         Based on the table schema below, question, sql query, and sql response, write a natural language response.
         You prefer short and concise answers, and heavily dislike filler words.
         Do not include any SQL code in your response.
+        DO NOT INCLUDE EXPLANATIONS OR INTERNAL REASONING.
+        DO NOT USE MARKDOWN OR WRAP WITH BACKTICKS.
+        DO NOT DECODE THE TIMESTAMP.
 
         Correct Examples:
-            Maximum state_rad: 660.3214012475306
-            The maximum state_pv level was 10395.5498747675. It occurred on 2023-10-27 10:00:00.
+            Maximum radiation level is: 660.3214012475306
+            The maximum state_pv level was 10395.5498747675. It occurred on timestamp.
 
         <SCHEMA>{schema}</SCHEMA>
         SQL Query: <SQL>{query}</SQL>
