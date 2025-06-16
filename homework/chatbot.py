@@ -79,6 +79,7 @@ class MySQLChatbot:
         DO NOT INCLUDE EXPLANATIONS OR INTERNAL REASONING.
         DO NOT USE MARKDOWN OR WRAP WITH BACKTICKS.
         DO NOT DECODE THE TIMESTAMP.
+        DO NOT INCLUDE <think> 
 
         Correct Examples:
             Maximum radiation level is: 660.3214012475306
